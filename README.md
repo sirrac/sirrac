@@ -1,7 +1,5 @@
 # Hi there! I'm Srikar
 
-## Third-Year Student | UIUC Computer Science & Statistics
-
 I'm a third-year student at the **University of Illinois at Urbana-Champaign (UIUC)**, pursuing a **B.S. in Computer Science and Statistics**.
 
 My core passion lies in building intelligent, data-driven systems. I focus on applying robust statistical modeling to large-scale data challenges and implementing solutions with efficient software engineering principles.
@@ -14,18 +12,17 @@ I utilize a variety of languages and frameworks to bring concepts to life, rangi
 
 | Area | Technologies |
 | :--- | :--- |
-| **Data & ML** | `Python`, `NumPy`, `Pandas`, `Scikit-learn` |
+| **Data & ML** | `Python`, `R`, `Pandas`, `Scikit-learn` |
 | **Web/Full-Stack**| `JavaScript`, `React.js`, `Node.js`, `HTML/CSS` |
-| **Mobile** | `React Native` |
-| **Systems/OOP** | `C++`, `Java` |
+| **Systems/OOP** | `C++`, `Java`, `Assembly x86 and MIPS` |
 
 ---
 
 ### Interests & Focus Areas
 
-*  **Machine Learning & AI:** Designing and implementing intelligent algorithms.
-*  **Data Science:** Extracting meaningful, actionable insights from complex datasets.
-*  **Backend Development:** Building scalable and reliable server-side architecture.
-*  **Systems Programming:** Understanding and optimizing low-level performance and infrastructure.
+*  **Machine Learning & AI** 
+*  **Data Science** 
+*  **Backend Development**
+*  **Systems Programming** 
 
 ---
