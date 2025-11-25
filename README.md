@@ -2,13 +2,13 @@
 
 ## Third-Year Student | UIUC Computer Science & Statistics
 
-I'm an ambitious third-year student at the **University of Illinois at Urbana-Champaign (UIUC)**, pursuing a dual **B.S. in Computer Science and Statistics**.
+I'm a third-year student at the **University of Illinois at Urbana-Champaign (UIUC)**, pursuing a **B.S. in Computer Science and Statistics**.
 
-My core passion lies in building **intelligent, data-driven systems**. I focus on applying robust statistical modeling to large-scale data challenges and implementing solutions with efficient software engineering principles.
+My core passion lies in building intelligent, data-driven systems. I focus on applying robust statistical modeling to large-scale data challenges and implementing solutions with efficient software engineering principles.
 
 ---
 
-### ⚙️ My Technical Toolkit
+### ⚙️ Technical skills
 
 I utilize a variety of languages and frameworks to bring concepts to life, ranging from full-stack development to data science and systems programming.
 
@@ -21,11 +21,11 @@ I utilize a variety of languages and frameworks to bring concepts to life, rangi
 
 ---
 
-### ⭐ Interests & Focus Areas
+### Interests & Focus Areas
 
-* 🧠 **Machine Learning & AI:** Designing and implementing intelligent algorithms.
-* 📊 **Data Science:** Extracting meaningful, actionable insights from complex datasets.
-* 🌐 **Backend Development:** Building scalable and reliable server-side architecture.
-* 💻 **Systems Programming:** Understanding and optimizing low-level performance and infrastructure.
+*  **Machine Learning & AI:** Designing and implementing intelligent algorithms.
+*  **Data Science:** Extracting meaningful, actionable insights from complex datasets.
+*  **Backend Development:** Building scalable and reliable server-side architecture.
+*  **Systems Programming:** Understanding and optimizing low-level performance and infrastructure.
 
 ---
