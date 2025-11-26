@@ -1,4 +1,4 @@
-# Hi there! I'm Srikar
+# Hi! I'm Srikar
 
 I'm a third-year student at the **University of Illinois at Urbana-Champaign (UIUC)**, pursuing a **B.S. in Computer Science and Statistics**.
 
