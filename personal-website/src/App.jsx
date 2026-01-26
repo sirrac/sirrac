@@ -182,7 +182,7 @@ function App() {
                   transition: 'color 0.3s'
                 }}
               >
-                Your Name
+                Srikar Girijala
               </Typography>
 
               {/* Mobile Menu Icon */}
@@ -286,7 +286,7 @@ function App() {
               </Typography>
               <Box sx={{ mt: 5, display: 'flex', justifyContent: 'center', gap: 3 }}>
                 <Link
-                  href="https://github.com/your-username"
+                  href="https://github.com/sirrac "
                   target="_blank"
                   rel="noopener noreferrer"
                   sx={{ color: 'grey.400', '&:hover': { color: 'cyan.400' }, transition: 'color 0.3s' }}
@@ -314,10 +314,10 @@ function App() {
                     About Me
                   </Typography>
                   <Typography variant="body1" sx={{ fontSize: '1.125rem', color: 'grey.300', mb: 2 }}>
-                    Hello! I'm a [Your Year, e.g., third-year] student at [Your University] studying Computer Science. I'm deeply passionate about web development, machine learning, and everything in between.
+                    Hello! I'm a third-year student at University of Illinois at Urbana-Champaign studying Computer Science and Statistics. I'm deeply passionate about web development, machine learning, and everything in between.
                   </Typography>
                   <Typography variant="body1" sx={{ fontSize: '1.125rem', color: 'grey.300', mb: 3 }}>
-                    Outside of coding, I enjoy [Your Hobby 1], [Your Hobby 2], and contributing to open-source projects. I'm always eager to learn new technologies and collaborate with others.
+                    Outside of coding, I enjoy anything creative in music and art, as well as running. I'm always eager to learn new technologies and collaborate with others.
                   </Typography>
                   <Typography variant="h5" sx={{ fontWeight: 600, mb: 1.5, color: 'grey.100' }}>
                     My Skills:
